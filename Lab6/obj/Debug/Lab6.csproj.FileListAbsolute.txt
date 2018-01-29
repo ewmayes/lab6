@@ -1,0 +1,7 @@
+d:\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe.config
+d:\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe
+d:\source\repos\Lab6\Lab6\bin\Debug\Lab6.pdb
+d:\source\repos\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+d:\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+d:\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
+d:\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
